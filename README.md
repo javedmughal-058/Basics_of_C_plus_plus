@@ -1,2 +1,2 @@
-# C-basics
+# C++ basics
 Learn basics of C++
